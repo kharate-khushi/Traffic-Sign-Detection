@@ -32,5 +32,5 @@ The Inception based model achieves an accuracy of 97.62%
 
 The Rendomforrest classifier achieves an accuracy of 92.07%
 
-Conclusion
+## Conclusion
 This repository demonstrates a comprehensive workflow for traffic sign detection and classification. It includes traditional machine learning techniques with HOG features and deep learning with transfer learning and CNN models.
